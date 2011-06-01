@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace HelloGIT
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello Jobin");
+            Console.WriteLine("Jobin >> Hello Ian");
+<<<<<<< HEAD
+            Console.WriteLine("No more redundant code");
+=======
+            Console.WriteLine("OK");
+>>>>>>> a60e032d320413961bababc39de46238fb6ae10f
+            Console.ReadLine();
+        }
+    }
+}
