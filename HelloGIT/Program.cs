@@ -11,6 +11,7 @@ namespace HelloGIT
         {
             Console.WriteLine("Hello Jobin");
             Console.WriteLine("Jobin >> Hello Ian");
+            Console.WriteLine("No more redundant code");
             Console.ReadLine();
         }
     }
